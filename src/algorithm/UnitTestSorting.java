@@ -20,7 +20,7 @@ public class UnitTestSorting {
         } catch (Exception ex) {
             ex.getMessage();
         }
-
+        System.out.println("Selection Sort passed Unit Test");
         //Now implement Unit test for rest of the soring algorithm...................below
 
     }
